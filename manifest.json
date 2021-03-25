@@ -1,0 +1,11 @@
+{
+  "name": "Chrome copypaste enabler",
+  "version": "1.0",
+  "description": "Disable wp-content-copy-protection",
+  "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "manifest_version": 2
+}
