@@ -2,7 +2,10 @@
 
 > wp-content-copy-protection disabler
 
-This is a custom [Google Chrome](https://www.google.com/chrome/) extension that blocks pre-determined [URL](https://en.wikipedia.org/wiki/URL)s.
+This is a custom [Google Chrome](https://www.google.com/chrome/) extension that blocks pre-determined [URL](https://en.wikipedia.org/wiki/URL).
+
+## Credits
+It is just modified [picatz/cube](https://github.com/picatz/cube) project.
 
 ## Installation
 
@@ -27,6 +30,3 @@ Nainstaluj si tento doplněk!
 4. Povol vývojářský režim vpravo nahoře
 5. Klikni na `LOAD UNPACKED` a vyber rozbalenou složku
 6. Hotovo!
-
-## Credits
-It is just modified [picatz/cube](https://github.com/picatz/cube) project.
